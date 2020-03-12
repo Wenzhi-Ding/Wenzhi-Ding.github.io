@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Wenzhi Ding | Main Page
+author: Wenzhi Ding
+email: wenzhi.ding@connect.hku.hk
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wenzhi Ding (丁文治) is a Ph.D. student at the University of Hong Kong 
+  in the finance area. His research interests lie at finance, technology 
+  and legal study.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,16 +12,17 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
+  name: 丁文治 Wenzhi Ding 
+  tagline: Law, Technology, Finance
+  date_format: "%Y-%m-%d %H:%M"
   sitemap: true # set to true to generate sitemap.xml content
+  analytics_id: "UA-150104052-1"
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: daveting1995
+    github: Wenzhi-Ding
+    linkedIn: in/wenzhi-ding
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
