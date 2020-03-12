@@ -75,10 +75,10 @@ main {
   .about {
     display: flex;
     height: 100vh;
-    padding-bottom: 15vh;
+    padding-bottom: 0vh;
     @media screen and (max-width: $mobileW) {
       height: auto;
-      padding: 10vh 0;
+      padding: 2vh 0;
     }
     @media screen and (min-width: $mobileW + 1) {
       position: fixed;
@@ -88,15 +88,16 @@ main {
     flex-direction: column;
     align-items: center;
     h2 {
-      font-size: 22px;
+      font-size: 20px;
       margin-top: 25px;
       margin-bottom: 0;
       color: #222222;
       font-weight: normal;
     }
     .tagline {
-      font-size: 22px;
-      margin-top: 17px;
+      font-size: 15px;
+      margin-top: 8px;
+      margin-bottom: 0;
       color: #aaa;
       white-space: pre-wrap;
       line-height: normal;
@@ -141,12 +142,12 @@ main {
       display: block;
       font-family: 'Merriweather';
       text-align: center;
-      padding: 1rem 0;
+      padding: 0.5rem 0;
       text-decoration: none;
       border-bottom: 1px solid #ececec;
 
       @media screen and (max-width: $mobileW) {
-        padding: 2rem 0;
+        padding: 0.5rem 0;
       }
     }
   }
@@ -197,8 +198,16 @@ main {
 }
 
 .post-title {
-  line-height: 1.2em;
-  font-size: 28px;
+  line-height: 1.75rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  h1,
+  h2 {
+    font-size: 28px;
+  }
+  h3 {
+    font-size: 15px;
+  }
 }
 .posts,
 .post-container {
@@ -220,7 +229,9 @@ main {
   font-family: "Merriweather", sans-serif;
   font-weight: 300;
   color: #222;
-  line-height: 1.9em;
+  line-height: 1.75em;
+  margin-top: 16px;
+  margin-bottom: 0;
   a {
     color: $linkColor;
     text-decoration: none;
@@ -247,4 +258,34 @@ main {
   letter-spacing: 0.5px;
   padding-bottom: 10px;
   font-weight: normal;
+}
+
+.music_wrapper {
+  position: relative;
+  padding-bottom: 43px;
+  padding-top: 43px;
+  height: 0;
+}
+.music_wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.my-list {
+  list-style: disc;
+  font-family: "Merriweather", sans-serif;
+  font-size: 16px;
+  li {
+    // margin: 5px 0;
+    line-height: 1.9em;
+  }
+}
+
+.email {
+  font-family: "Merriweather", sans-serif;
+  font-size: 12px;
+  text-align: center;
 }
