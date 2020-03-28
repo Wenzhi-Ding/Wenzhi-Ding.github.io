@@ -9,8 +9,8 @@ layout: home
 	<h3 class="post-title">About Me</h3>
 		<p><div class="post">I am a first-year Ph.D. student at the University of Hong Kong in the finance area. My research interests lie at how law and technology change finance, and further, change business. All contacts are welcome!</div></p>
 		<div align="center">
-			<a href="./assets/cv/CV_Wenzhi_Ding_2020_03_Simplified.pdf"><img src="./assets/img/cv2.png" width="60"></a><br>
-			<strong><a href="./assets/cv/CV_Wenzhi_Ding_2020_03_Simplified.pdf">Curriculum Vitae</a></strong>
+			<a href="./assets/cv/CV_Wenzhi_Ding.pdf"><img src="./assets/img/cv2.png" width="60"></a><br>
+			<strong><a href="./assets/cv/CV_Wenzhi_Ding.pdf">Curriculum Vitae</a></strong>
 		</div>
 	<h3 class="post-title">Fields of Interest</h3>
 		<ul class="my-list">
@@ -27,7 +27,10 @@ layout: home
         <ul class="my-list"><li>Guitar, Piano (Recent favorite: To The Moon)</li></ul>
         <div class="music_wrapper"><iframe frameborder="0" border="1" marginwidth="0" marginheight="0" src="https://music.163.com/outchain/player?type=2&amp;id=1645064&amp;auto=0&amp;height=66"></iframe></div>
         <ul class="my-list">
-        	<li>Rubik Cube (Sub 20s)</li>
-        	<li>Programming</li>
+        	<li>Rubik Cube (Sub 15s)</li>
         </ul>
+        <div align="center"><video width="480" height="272" controls>
+          <source src="assets/cube.mp4" type="video/mp4">
+        </video></div>
+
 
