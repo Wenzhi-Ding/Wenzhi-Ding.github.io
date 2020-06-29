@@ -11,7 +11,7 @@ layout: default
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
     <li class="posts-labelgroup" id="posts-labelgroup">
-      <h1 id="posts-label">posts</h1>
+      <h1 id="posts-label">Researches</h1>
       {% if site.plainwhite.search %}
       <div class="search-container">
         <div class="search-section">
@@ -29,29 +29,30 @@ layout: default
         <a class="post-link" href="{{ post.url | relative_url }}">
           <h2 class="post-title">{{ post.title | escape }}</h2>
         </a>
-        <div class="post-meta">
-          <div class="post-date">
-            <i class="icon-calendar"></i>
-            {{ post.date | date: date_format }}
-          </div>
-          {%- if post.categories.size > 0-%}
+        <!-- <div class="post-meta"> -->
+          <!-- {%- if post.categories.size > 0-%}
           <ul class="post-categories">
             {%- for tag in post.categories -%}
             <li>{{ tag }}</li>
             {%- endfor -%}
           </ul>
-          {%- endif -%}
-        </div>
+          {%- endif -%} -->
+        <!-- </div> -->
         <div class="post">
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
           {%- endif -%}
         </div>
+        <div class="post-date">
+          <i class="icon-calendar"></i>
+          {{ post.date | date: date_format }} update
+        </div>
       </li>
     {%- endfor -%}
   </ul>
 
-  <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
+  <!-- <svg class="svg-icon orange">
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
+	</svg></p> -->
+  <p class="feed-subscribe" style="text-align:center;margin-top:50px"><a href="{{ "/feed.xml" | relative_url }}"><i class="icon-rss"></i>Subscribe</a></p>
 {%- endif -%}

@@ -47,13 +47,15 @@ plainwhite:
   navigation:
     - title: Main Page
       url: "/index"
+    - title: Research
+      url: "/research"
     - title: Project
       url: "/project"
     - title: Teaching
       url: "/teaching"
 
   social_links:
-    twitter: daveting1995
+    twitter: wenzhi_ding
     github: Wenzhi-Ding
     linkedIn: in/wenzhi-ding
     rss: rss
