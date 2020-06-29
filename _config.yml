@@ -35,7 +35,7 @@ sass:
 
 plainwhite:
   name: 丁文治 Wenzhi Ding 
-  tagline: Law, Tech, Finance
+  tagline: Finance, Tech, Law
   date_format: "%b %-d, %Y"
 
   # disqus_shortname: wenzhi_ding
@@ -45,17 +45,16 @@ plainwhite:
   navigation:
     - title: Main Page
       url: "/index"
-    - title: Blog
-      url: "/blog"
-    - title: Research
-      url: "/research"
-    - title: Teaching & Project
+    - title: Project
       url: "/project"
+    - title: Teaching
+      url: "/teaching"
 
   social_links:
     twitter: daveting1995
     github: Wenzhi-Ding
     linkedIn: in/wenzhi-ding
+    # ssrn: 3268426
 
 # Build settings
 theme: plainwhite
