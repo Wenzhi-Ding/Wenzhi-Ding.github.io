@@ -271,18 +271,15 @@ main {
 }
 
 #posts-label {
-  // border-bottom: 1px solid #eee;
-  font-size: 18px;
-  color: #777;
+  font-size: 15px;
+  color: #555;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  // width: 100px;
-  // padding-bottom: 10px;
-  // padding: 10px 0;
-  // font-weight: normal;
-  // margin: 0;
-  // overflow: hidden;
-  // transition: width 0.1s;
+  padding: 10px 0;
+  font-weight: normal;
+  margin: 0;
+  overflow: hidden;
+  transition: width 0.1s;
 }
 table {
   th, td {

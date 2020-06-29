@@ -37,8 +37,8 @@ plainwhite:
   tagline: Finance, Tech, Law
   date_format: "%b %-d, %Y"
   dark_mode: true
-  sitemap: true
-  search: true
+  sitemap: false
+  search: false
 
   # disqus_shortname: wenzhi_ding
 
@@ -63,7 +63,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-remote_theme: thelehhman/plainwhite-jekyll
+# remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
