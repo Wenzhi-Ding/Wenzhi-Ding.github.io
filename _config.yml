@@ -36,9 +36,9 @@ plainwhite:
   name: 丁文治 Wenzhi Ding 
   tagline: Finance, Tech, Law
   date_format: "%b %-d, %Y"
-  dark_mode: false
+  dark_mode: true
   sitemap: true
-  search: false
+  search: true
 
   # disqus_shortname: wenzhi_ding
 
