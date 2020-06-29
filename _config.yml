@@ -38,7 +38,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   dark_mode: true
   sitemap: false
-  search: false
+  search: true
 
   # disqus_shortname: wenzhi_ding
 
