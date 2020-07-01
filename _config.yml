@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wenzhi Ding | Main Page
+title: Wenzhi Ding | Personal Website
 email: wenzhi.ding@connect.hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
   Wenzhi Ding (丁文治) is a Ph.D. student at the University of Hong Kong 
