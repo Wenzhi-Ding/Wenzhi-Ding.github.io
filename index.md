@@ -3,8 +3,8 @@ layout: home
 ---
 
 <ul class="posts">
-    <li class="posts-labelgroup" id="posts-labelgroup">
-      <h1 id="posts-label" style="width: 150px;">Main Page</h1>
+    <li class="posts-labelgroup2">
+      <h1 id="posts-label2">Main Page</h1>
     </li>
     	<div class="music_wrapper"><iframe frameborder="0" border="1" marginwidth="0" marginheight="0" src="https://music.163.com/outchain/player?type=2&amp;id=1645064&amp;auto=0&amp;height=66"></iframe></div>
 	<h3 class="post-title" style="font-size: 15px">About Me</h3>
