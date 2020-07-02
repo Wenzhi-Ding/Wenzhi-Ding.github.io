@@ -48,11 +48,11 @@ plainwhite:
     - title: Main Page
       url: "/index"
     - title: Research
-      url: "/research"
+      url: "/pages/research"
     - title: Project
-      url: "/project"
+      url: "/pages/project"
     - title: Teaching
-      url: "/teaching"
+      url: "/pages/teaching"
 
   social_links:
     twitter: wenzhi_ding
