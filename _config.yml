@@ -37,7 +37,7 @@ plainwhite:
   tagline: Finance, Tech, Law
   date_format: "%b %-d, %Y"
   dark_mode: true
-  sitemap: false
+  sitemap: true
   search: true
 
   # disqus_shortname: wenzhi_ding
@@ -45,10 +45,10 @@ plainwhite:
   analytics_id: "UA-150104052-1"
 
   navigation:
-    - title: Main Page
-      url: "/index"
     - title: Research
-      url: "/pages/research"
+      url: "/index"
+    # - title: Research
+    #   url: "/pages/research"
     - title: Project
       url: "/pages/project"
     - title: Teaching
