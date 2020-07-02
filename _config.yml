@@ -55,9 +55,9 @@ plainwhite:
       url: "/pages/teaching"
 
   social_links:
-    twitter: wenzhi_ding
+    # twitter:
     github: Wenzhi-Ding
-    # linkedIn: in/wenzhi-ding
+    # linkedIn:
     rss: rss
     # ssrn: 3268426
 
