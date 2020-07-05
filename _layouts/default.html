@@ -15,10 +15,17 @@
       <p class="email"><a href="mailto:{{ site.email }}"> {{ site.email }} </a></p>
       <p class="tagline">{{ site.plainwhite.tagline }}</p>
       <ul class="social">
+        {%- if site.plainwhite.social_links.ssrn -%}
+        <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank">
+          <li>
+            <i class="icon-ssrn-squared"></i>
+          </li>
+        </a>
+        {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
         <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank">
           <li>
-            <i class="icon-github-circled"></i>
+            <i class="icon-github-squared"></i>
           </li>
         </a>
         {%- endif -%}
