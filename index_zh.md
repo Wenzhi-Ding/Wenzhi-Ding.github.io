@@ -9,14 +9,14 @@ layout: home
     	<p style="text-align:center" class="post">中文|<a href='./index.html'>English</a></p>
     	<!--div class="music_wrapper"><iframe frameborder="0" border="1" marginwidth="0" marginheight="0" src="https://music.163.com/outchain/player?type=2&amp;id=1645064&amp;auto=0&amp;height=66"></iframe></div-->
 	<h3 class="post-title" style="font-size: 15px">个人简介</h3>
-		<div class="post">我是香港大学金融学方向的一年级博士生，研究兴趣是科技和法律是如何影响金融、并进一步影响社会。欢迎沟通交流！</div>
+		<div class="post">我是香港大学金融学方向的一年级博士生，研究兴趣是科技和法律对金融的影响，以及进一步对社会的影响。欢迎交流！</div>
 		<div align="center">
             <br>
-			<strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding_June2020.pdf" style="font-size: 15px" target="_blank">个人简历</a></strong>
+			<strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding.pdf" style="font-size: 15px" target="_blank">个人简历</a></strong>
 		</div>
 	<h3 class="post-title" style="font-size: 15px">研究兴趣</h3>
 		<ul class="my-list">
-			<li class="post">金融机构</li>
+			<li class="post">公司金融</li>
 			<li class="post">科技与金融</li>
 			<li class="post">法律与金融</li>
 		</ul>
