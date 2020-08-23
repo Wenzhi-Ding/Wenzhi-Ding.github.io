@@ -83,6 +83,7 @@ main {
     }
     @media screen and (min-width: $mobileW + 1) {
       position: fixed;
+      max-width: 280px;
     }
     min-width: $leftWidth;
     justify-content: center;
@@ -96,6 +97,7 @@ main {
       font-weight: normal;
     }
     .tagline {
+      text-align: center;
       font-size: 15px;
       margin-top: 8px;
       margin-bottom: 8px;

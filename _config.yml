@@ -40,6 +40,9 @@ plainwhite:
   sitemap: true
   search: true
 
+  portfolio_image: "assets/portfolio.png"
+  html_lang: "en"
+
   # disqus_shortname: wenzhi_ding
 
   analytics_id: "UA-150104052-1"
@@ -63,7 +66,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-# remote_theme: thelehhman/plainwhite-jekyll
+# remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
