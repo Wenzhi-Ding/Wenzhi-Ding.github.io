@@ -30,5 +30,3 @@ layout: page
 - 对于Python用户，可以直接通过`pip`命令安装并导入运行；
 - 其他语言的用户可以下载各个格式的数据集，通过合并的方式获得标准编码；
 - Stata和R的包在开发计划中，不过尚未进行。
-
-<li class="posts-labelgroup2"></li>

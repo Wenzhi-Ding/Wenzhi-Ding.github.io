@@ -31,6 +31,3 @@ This is designed in two forms:
 - For other language users, you can download the dataset in different format and merge into your own dataset.
 - Package for Stata and R are in the future supporting list.
 
-<li class="posts-labelgroup2">
-</li>
-
