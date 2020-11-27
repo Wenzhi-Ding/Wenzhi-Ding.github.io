@@ -1,0 +1,276 @@
+---
+layout: post
+title:  "Corporate Immunity to the COVID-19 Pandemic"
+date:   2020-08-31 15:00:00 +0800
+---
+with Ross Levine, Chen Lin, Wensi Xie. <a class='icon-ext-link' href='http://www.jfe.rochester.edu/astat.pdf' target="_blank"><i>Journal of Financial Economics</i> (forthcoming)</a>, <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a>, <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a><br/><br/>We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. Corporate characteristics include financial condition, supplier-customer network, CSR activities, corporate governance, and ownership structure.
+
+# 1. Abstract
+
+We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. The pandemic-induced drop in stock returns was milder among firms with (a) stronger pre-2020 finances (more cash and undrawn credit, less total and short-term debt, and larger profits), (b) less exposure to COVID-19 through global supply chains and customer locations, (c) more CSR activities, and (d) less entrenched executives. Furthermore, the stock returns of firms controlled by families (especially through direct holdings and with non-family managers), large corporations, and governments performed better, and those with greater ownership by hedge funds and other asset management companies performed worse. Stock markets positively price small amounts of managerial ownership but negatively price high-levels of managerial ownership during the pandemic.
+
+# 2. Research Highlights
+
+## 2.1. Heterogeneity across markets
+
+![Figure 4](/assets/img_post/Figure3.svg)
+
+**Fig. 3.  Stock Market Returns since the Spread of COVID-19**
+
+This figure plots the cumulative stock market returns since January 17, 2020 for selected economies. Cumulative returns are calculated from the value-weighted market index in each economy. Source: Thomson Reuters.
+
+## 2.2. Relation between Pandemic (Early Stage) and Stock Returns
+
+![Figure 4](/assets/img_post/Figure4.svg)
+
+**Fig. 4.  COVID19 Cases and Stock Market Returns**
+This figure presents the relation between stock market returns and the growth rate of COVID-19 cases using the cross-economy panel data during the weeks from Jan 3, 2020 through May 22, 2020. The x-axis denotes the weekly growth of COVID-19 cases, and the y-axis represents weekly stock market returns. We divide the x-axis into 100 bins, where each bin has an equal “width,” so that the first bin includes observations with 0% to 3% weekly growth of COVID-19 cases, bin two has observations with 4% to 7% weekly case growth, and the 100th bin has observations of between 396% to 399% weekly case growth. There is not an equal number of observations in each bin. Each dot represents the average weekly stock market return across observations within each bin. The dashed line is the linear fitted line.
+
+## 2.3. Financial Conditions
+
+**Table 3 Corporate financial conditions and stock returns in response to COVID-19**
+
+<div class="center">
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th style="text-align: center" colspan=2>Weekly stock return</th>
+      </tr>
+    <tr>
+      <th></th>
+      <th style="text-align: center">(2)</th>
+      <th style="text-align: center">(4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Firm size * COVID19</td>
+      <td style="text-align: center">0.085**<br>(0.041)</td>
+      <td style="text-align: center">0.124**<br>(0.056)</td>
+    </tr>
+    <tr>
+      <td>Leverage * COVID19</td>
+      <td style="text-align: center">-1.236***<br>(0.281)</td>
+      <td style="text-align: center">-1.456***<br>(0.228)</td>
+    </tr>
+    <tr>
+      <td>Cash * COVID19</td>
+      <td style="text-align: center">0.933**<br>(0.428)</td>
+      <td style="text-align: center">1.852***<br>(0.629)</td>
+    </tr>
+    <tr>
+      <td>ROA * COVID19</td>
+      <td style="text-align: center">1.768***<br>(0.334)</td>
+      <td style="text-align: center">2.043**<br>(0.964)</td>
+    </tr>
+    <tr>
+      <td>Undrawn Credit * COVID19</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">0.966<br>(0.600)</td>
+    </tr>
+    <tr>
+      <td>Maturing Debt * COVID19</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">-0.510***<br>(0.123)</td>
+    </tr>
+    <tr>
+      <td>Firm Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Industry-time Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Economy-time Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Observations</td>
+      <td style="text-align: center">126,771</td>
+      <td style="text-align: center">79,877</td>
+    </tr>
+    <tr>
+      <td>Adjusted R-squared</td>
+      <td style="text-align: center">0.503</td>
+      <td style="text-align: center">0.539</td>
+    </tr>
+    <tr>
+      <td>Number of firms</td>
+      <td style="text-align: center">6,041</td>
+      <td style="text-align: center">3,808</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+The dependent variable is the weekly stock return of each firm. *COVID19* is the weekly growth rate of the number of confirmed COVID-19 cases in an economy. The analyses cover the period from January 2, 2020 through May 22, 2020. Robust standard errors clustered at the economy level are reported in parentheses.
+
+## 2.4. Global value networks
+
+**Table 4 Global supply networks and stock returns in response to COVID-19**
+
+<div class="center">
+    <table>
+  <thead>
+      <tr>
+          <th></th>
+          <th style="text-align: center">Weekly stock returns</th>
+      </tr>
+    <tr>
+      <th></th>
+      <th style="text-align: center">(3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Suppliers’ exposure</td>
+      <td style="text-align: center">-0.323***<br>(0.088)</td>
+    </tr>
+    <tr>
+      <td>Customers’ exposure</td>
+      <td style="text-align: center">-0.776***<br>(0.185)</td>
+    </tr>
+    <tr>
+      <td>Firm traits * COVID19</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Firm Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Industry-time Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Economy-time Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Observations</td>
+      <td style="text-align: center">108,631</td>
+    </tr>
+    <tr>
+      <td>Adjusted R-squared</td>
+      <td style="text-align: center">0.512</td>
+    </tr>
+    <tr>
+      <td>Number of firms</td>
+      <td style="text-align: center">5,179</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+The dependent variable is the weekly stock return of each firm. Suppliers’ exposure measures the extent to which a firm is exposed to COVID19 in countries through its suppliers. Customers’ exposure measures the extent to which a firm is exposed to COVID19 in countries through its customers. Robust standard errors clustered at the economy level are reported in parentheses.
+
+## 2.5. CSR
+
+**Table 5 Corporate social responsibility and stock returns in response to COVID-19**
+
+<div class="center">
+    <table>
+  <thead>
+      <tr>
+          <th></th>
+        <th style="text-align: center" colspan=4>Weekly stock returns</th>
+      </tr>
+    <tr>
+      <th></th>
+      <th style="text-align: center">(1)</th>
+      <th style="text-align: center">(2)</th>
+      <th style="text-align: center">(3)</th>
+      <th style="text-align: center">(4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CSR score * COVID19</td>
+      <td style="text-align: center">0.900**<br>(0.385)</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Environmental * COVID19</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">0.735**<br>(0.364)</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Social * COVID19</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">0.638**<br>(0.249)</td>
+      <td style="text-align: center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>CSR Strategy * COVID19</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">0.495**<br>(0.216)</td>
+    </tr>
+    <tr>
+      <td>Firm traits * COVID19</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Firm Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Industry-time Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Economy-time Fixed Effects</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td>Observations</td>
+      <td style="text-align: center">126,711</td>
+      <td style="text-align: center">126,690</td>
+      <td style="text-align: center">126,690</td>
+      <td style="text-align: center">126,711</td>
+    </tr>
+    <tr>
+      <td>Adjusted R-squared</td>
+      <td style="text-align: center">0.504</td>
+      <td style="text-align: center">0.504</td>
+      <td style="text-align: center">0.504</td>
+      <td style="text-align: center">0.504</td>
+    </tr>
+    <tr>
+      <td>Number of firms</td>
+      <td style="text-align: center">6,041</td>
+      <td style="text-align: center">6,040</td>
+      <td style="text-align: center">6,040</td>
+      <td style="text-align: center">6,040</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+The dependent variable is the weekly stock return of each firm.  We measure a firm’s CSR performance using the overall CSR score and Environmental, Social, and CSR Strategy indicators. Robust standard errors clustered at the economy level are reported in parentheses.
+
+@WORK IN PROGRESS@

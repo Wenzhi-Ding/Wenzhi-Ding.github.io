@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Test Title"
-date:   2020-04-17 14:01:11 +0800
----
-with Apple, Bob, Cat. <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=' target="_blank">SSRN</a> <a class='icon-ext-link' href='https://www.nber.org/papers/w' target="_blank">NBER</a>
-
-This is a test page.
-
