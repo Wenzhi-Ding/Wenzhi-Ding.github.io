@@ -19,6 +19,16 @@ layout: page
 
 <li class="posts-labelgroup2"></li>
 
+### Error Catcher
+
+- 版本：0.2
+- 发布日期：2020年12月24日
+- Github仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/error_catcher' target="_blank">链接</a>
+
+这是一个用于捕获报错信息的Python装饰器。在捕获错误提示的同时，它还能捕获在该时刻（1）与该错误有关的变量的值和（2）其他你设定的感兴趣的变量的值。该装饰器返回的信息既可以是打印在命令行的，也可以是在日志文件中的。总结而言，该工具比原生的`try & except`在处理异常时更有用，同时更方便。
+
+<li class="posts-labelgroup2"></li>
+
 ### Standardize Country Code
 
 - 版本：0.1

@@ -18,6 +18,16 @@ This is a Python decorator that can send email as notification. After append thi
 
 <li class="posts-labelgroup2"></li>
 
+### Error Catcher
+
+- Version: 0.2
+- Release date: Dec 24, 2020
+- Github repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/error_catcher' target="_blank">Link</a>
+
+This is a convenient Python decorator to catch the errors information. Meanwhile, it can also capture the value of (1) variables related to that error or (2) other variables you interested at the time the error occurs. It support logging as well as printing directly. In short, this tool is more advanced and convenient than the original `try & except` statement in handling errors.
+
+<li class="posts-labelgroup2"></li>
+
 ### Standardize Country Code
 
 - Version: 0.1
