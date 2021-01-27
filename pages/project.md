@@ -28,6 +28,14 @@ This is a convenient Python decorator to catch the errors information. Meanwhile
 
 <li class="posts-labelgroup2"></li>
 
+### Coding Notes
+
+- Github repo: [Link](https://github.com/Wenzhi-Ding/coding_notes)
+
+These are the notes of my coding practices, mainly written in Python. Some nice problems (from my perspective) are listed. You may take a look at those problems and try to solve it.
+
+<li class="posts-labelgroup2"></li>
+
 ### Standardize Country Code
 
 - Version: 0.1

@@ -29,6 +29,14 @@ layout: page
 
 <li class="posts-labelgroup2"></li>
 
+### Coding Notes
+
+- Github仓库：[Link](https://github.com/Wenzhi-Ding/coding_notes)
+
+在这个仓库中同步了我做过的编程练习，主要是用Python写的。在首页罗列了一些我认为比较有趣、有价值的题目和我的解。欢迎尝试这些题目并提出思路和意见。
+
+<li class="posts-labelgroup2"></li>
+
 ### Standardize Country Code
 
 - 版本：0.1
