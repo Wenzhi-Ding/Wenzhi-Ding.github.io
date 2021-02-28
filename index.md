@@ -11,7 +11,7 @@ layout: home
     	<div class="post">I am a second-year Ph.D. student at the University of Hong Kong in the finance area. My research interests lie at how law and technology change finance, and further, change business and society. All contacts are welcome!</div>
     	<div align="center">
             <br>
-    		<strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding_2021_Jan.pdf" style="font-size: 15px" target="_blank">Curriculum Vitae</a></strong>
+    		<strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding_2021_Feb.pdf" style="font-size: 15px" target="_blank">Curriculum Vitae</a></strong>
     	</div>
     <h3 class="post-title" style="font-size: 15px">Fields of Interest</h3>
     	<ul class="my-list">
