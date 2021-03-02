@@ -6,11 +6,19 @@ layout: page
 
 <li class="posts-labelgroup2"></li>
 
+### Coding Notes
+
+- GitHub仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/coding_notes' target="_blank">链接</a>
+
+在这个仓库中同步了我做过的编程或数据练习，主要是用Python写的。在首页罗列了一些我认为比较有趣、有价值的题目和我的解。欢迎尝试这些题目并提出思路和意见。
+
+<li class="posts-labelgroup2"></li>
+
 ### PyReminder
 
 - 版本：0.1.1
 - 发布日期：2019年10月28日
-- Github仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/py_reminder' target="_blank">链接</a>
+- GitHub仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/py_reminder' target="_blank">链接</a>
 
 这是一个发送邮件的Python装饰器。在Python函数体前附加了该装饰器后，一旦该函数执行完毕，程序将按照状态向你发送一封邮件，既可以提示完成信息，也可以捕捉发送报错信息。这个工具特别适用于以下两个场景：
 
@@ -23,25 +31,17 @@ layout: page
 
 - 版本：0.2
 - 发布日期：2020年12月24日
-- Github仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/error_catcher' target="_blank">链接</a>
+- GitHub仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/error_catcher' target="_blank">链接</a>
 
 这是一个用于捕获报错信息的Python装饰器。在捕获错误提示的同时，它还能捕获在该时刻（1）与该错误有关的变量的值和（2）其他你设定的感兴趣的变量的值。该装饰器返回的信息既可以是打印在命令行的，也可以是在日志文件中的。总结而言，该工具比原生的`try & except`在处理异常时更有用，同时更方便。
-
-<li class="posts-labelgroup2"></li>
-
-### Coding Notes
-
-- Github仓库：[Link](https://github.com/Wenzhi-Ding/coding_notes)
-
-在这个仓库中同步了我做过的编程练习，主要是用Python写的。在首页罗列了一些我认为比较有趣、有价值的题目和我的解。欢迎尝试这些题目并提出思路和意见。
 
 <li class="posts-labelgroup2"></li>
 
 ### Standardize Country Code
 
 - 版本：0.1
-- 发布日期：【将于8月中旬上线（博士生资格考试后）】
-- Github仓库：【将于8月中旬上线（博士生资格考试后）】
+- 发布日期：【有空时再整理发布】
+- GitHub仓库：【有空时再整理发布】
 
 这个工具帮助社会科学的研究人员将各个数据来源中五花八门的国家名、国家代码标准划成统一的ISO国家编码。如果你的研究还包括了时间的维度，该工具同时考虑了政权变迁带来的编码变化。
 

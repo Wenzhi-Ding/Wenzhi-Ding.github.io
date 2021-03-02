@@ -5,11 +5,19 @@ layout: page
 
 <li class="posts-labelgroup2"></li>
 
+### Coding Notes
+
+- GitHub repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/coding_notes' target="_blank">Link</a>
+
+These are the notes of my coding practices, mainly written in Python. Some nice problems (from my perspective) are listed. You may take a look at those problems and try to solve it.
+
+<li class="posts-labelgroup2"></li>
+
 ### PyReminder
 
 - Version: 0.1.1
 - Release date: Oct 28, 2019
-- Github repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/py_reminder' target="_blank">Link</a>
+- GitHub repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/py_reminder' target="_blank">Link</a>
 
 This is a Python decorator that can send email as notification. After append this decorator to the function, once the function finished, it will send you an email. This is especially useful in two scenarios:
 
@@ -22,25 +30,17 @@ This is a Python decorator that can send email as notification. After append thi
 
 - Version: 0.2
 - Release date: Dec 24, 2020
-- Github repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/error_catcher' target="_blank">Link</a>
+- GitHub repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/error_catcher' target="_blank">Link</a>
 
 This is a convenient Python decorator to catch the errors information. Meanwhile, it can also capture the value of (1) variables related to that error or (2) other variables you interested at the time the error occurs. It support logging as well as printing directly. In short, this tool is more advanced and convenient than the original `try & except` statement in handling errors.
-
-<li class="posts-labelgroup2"></li>
-
-### Coding Notes
-
-- Github repo: [Link](https://github.com/Wenzhi-Ding/coding_notes)
-
-These are the notes of my coding practices, mainly written in Python. Some nice problems (from my perspective) are listed. You may take a look at those problems and try to solve it.
 
 <li class="posts-labelgroup2"></li>
 
 ### Standardize Country Code
 
 - Version: 0.1
-- Release date: [will release in mid-Aug]
-- Github repo: [will release in mid-Aug]
+- Release date: [will release in spare time]
+- GitHub repo: [will release in spare time]
 
 This tool helps researcher to standardize the country names from various data source into uniformed country code. 
 
