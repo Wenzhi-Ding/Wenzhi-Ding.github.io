@@ -3,7 +3,7 @@ layout: post
 title:  "Corporate Immunity to the COVID-19 Pandemic"
 date:   2020-08-31 15:00:00 +0800
 ---
-with Ross Levine, Chen Lin, Wensi Xie. <a class='icon-ext-link' href='http://www.jfe.rochester.edu/astat.pdf' target="_blank"><i>Journal of Financial Economics</i> (forthcoming)</a>, <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a>, <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a><br/><br/>We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. Corporate characteristics include financial condition, supplier-customer network, CSR activities, corporate governance, and ownership structure.
+with Ross Levine, Chen Lin, Wensi Xie. <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i> (forthcoming)</a>, <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a>, <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a><br/><br/>We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. Corporate characteristics include financial condition, supplier-customer network, CSR activities, corporate governance, and ownership structure.
 
 # 1. Abstract
 
