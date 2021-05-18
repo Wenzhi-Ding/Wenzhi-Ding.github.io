@@ -12,7 +12,7 @@ layout: home
 		<div class="post">我是香港大学金融学方向的二年级博士生，研究兴趣是科技和法律对金融的影响，以及进一步对社会的影响。欢迎交流！</div>
 		<div align="center">
             <br>
-			<strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding_2021_Mar.pdf" style="font-size: 15px" target="_blank">个人简历</a></strong>
+			<strong><a class="icon-pdf" href="./assets/简历_丁文治_2021年5月.pdf" style="font-size: 15px" target="_blank">个人简历</a></strong>
 		</div>
 	<h3 class="post-title" style="font-size: 15px">研究兴趣</h3>
 		<ul class="my-list">
@@ -25,3 +25,4 @@ layout: home
 			<li class="post"><img src="./assets/img/hku.png" width="14"> 2018至今：香港大学，金融学博士（在读）与金融硕士</li>
 			<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018：中山大学，工商管理学士</li>
 		</ul>
+
