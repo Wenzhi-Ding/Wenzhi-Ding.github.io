@@ -39,13 +39,10 @@ This is a convenient Python decorator to catch the errors information. Meanwhile
 ### Standardize Country Code
 
 - Version: 0.1
-- Release date: [will release in spare time]
-- GitHub repo: [will release in spare time]
+- Release date: June 3, 2021
+- GitHub repo: [Link](https://github.com/Wenzhi-Ding/StdCountryCode)
 
-This tool helps researcher to standardize the country names from various data source into uniformed country code. 
+This tool helps researcher to standardize the country names from various data source into uniformed country code.
 
-This is designed in two forms:
-- For Python users, you can install the package, import, and use the function directly.
-- For other language users, you can download the dataset in different format and merge into your own dataset.
-- Package for Stata and R are in the future supporting list.
+This dataset is now cross-sectional. A panel data that takes regime change is under consideration. Please feel free to contact me if you want to contribute!
 
