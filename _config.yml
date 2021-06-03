@@ -34,13 +34,13 @@ plainwhite:
 
   navigation:
     - title: Research
-      url: "/index"
+      url: "/index.html"
     # - title: Research
     #   url: "/pages/research"
     - title: Project
-      url: "/pages/project"
+      url: "/pages/project.html"
     - title: Teaching
-      url: "/pages/teaching"
+      url: "/pages/teaching.html"
 
   social_links:
     # twitter:
