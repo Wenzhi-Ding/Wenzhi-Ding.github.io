@@ -41,7 +41,7 @@ layout: page
 
 - 版本：0.1
 - 发布日期：2021年6月3日
-- GitHub仓库：[链接](https://github.com/Wenzhi-Ding/StdCountryCode)
+- GitHub仓库：<a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/StdCountryCode' target="_blank">链接</a>
 
 这个工具帮助社会科学的研究人员将各个数据来源中五花八门的国家名、国家代码标准划成统一的ISO国家编码。
 

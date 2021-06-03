@@ -40,7 +40,7 @@ This is a convenient Python decorator to catch the errors information. Meanwhile
 
 - Version: 0.1
 - Release date: June 3, 2021
-- GitHub repo: [Link](https://github.com/Wenzhi-Ding/StdCountryCode)
+- GitHub repo: <a class='icon-ext-link' href='https://github.com/Wenzhi-Ding/StdCountryCode' target="_blank">Link</a>
 
 This tool helps researcher to standardize the country names from various data source into uniformed country code.
 
