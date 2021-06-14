@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: home_zh
 ---
 
 <ul class="posts">
     <li class="posts-labelgroup2">
       <h1 id="posts-label2">主页</h1>
     </li>
-    	<p style="text-align:center" class="post">中文|<a href='./index.html'>English</a></p>
+    	<p style="text-align:center" class="post"><a href='./index.html'>English</a>|中文</p>
     	<!--div class="music_wrapper"><iframe frameborder="0" border="1" marginwidth="0" marginheight="0" src="https://music.163.com/outchain/player?type=2&amp;id=1645064&amp;auto=0&amp;height=66"></iframe></div-->
 	<h3 class="post-title" style="font-size: 15px">个人简介</h3>
 		<div class="post">我是香港大学金融学方向的二年级博士生，研究兴趣是科技和法律对金融的影响，以及进一步对社会的影响。欢迎交流！</div>

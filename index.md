@@ -6,7 +6,7 @@ layout: home
     <li class="posts-labelgroup2">
       <h1 id="posts-label2">Main Page</h1>
     </li>
-    <div style="text-align: center" class="post"><a href='./index_zh.html'>中文</a>|English</div>
+    <div style="text-align: center" class="post">English|<a href='./index_zh.html'>中文</a></div>
     <h3 class="post-title" style="font-size: 15px">About Me</h3>
     	<div class="post">I am a second-year Ph.D. student at the University of Hong Kong in the finance area. My research interests lie at how law and technology change finance, and further, change business and society. All contacts are welcome!</div>
     	<div align="center">

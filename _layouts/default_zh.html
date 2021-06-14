@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ site.plainwhite.html_lang }}">
+<html lang="{{ site.plainwhite.html_lang_zh }}">
 
 <head>
-  {%- include head.html -%}
+  {%- include head_zh.html -%}
   <meta name="baidu-site-verification" content="code-XtcaFBjAeN" />
 </head>
 
@@ -19,19 +19,19 @@
       <div class="about-title">
       <a href="{{ "/" | relative_url}}">
         {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
-        <img class="light" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
-        <img class="dark" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}" alt="{{ site.plainwhite.name }}" />
+        <img class="light" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name_zh }}" />
+        <img class="dark" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}" alt="{{ site.plainwhite.name_zh }}" />
         {% else %}
-        <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
+        <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name_zh }}" />
         {% endif %}
       </a>
       <h2 id="title">
-        <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
+        <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name_zh }}</a>
       </h2>
       </div>
-      {%- if site.plainwhite.tagline -%}
+      {%- if site.plainwhite.tagline_zh -%}
       <p class="email">{{ site.email }}</p>
-      <p class="tagline">{{ site.plainwhite.tagline }}</p>
+      <p class="tagline">{{ site.plainwhite.tagline_zh }}</p>
       {%- endif -%}
       </div>
       {% capture footer %}
@@ -72,7 +72,7 @@
         <ul>
           {% for link in site.plainwhite.navigation %}
           <li>
-            <a href="{{ link.url }}">{{ link.title }}</a>
+            <a href="{{ link.url_zh }}">{{ link.title_zh }}</a>
           </li>
           {% endfor %}
         </ul>
@@ -82,7 +82,7 @@
         {{ "now" | date: "%Y" }}</p>
       {%- if site.plainwhite.dark_mode -%}
       <div class="about-footer {{condensed_class}}">
-        <p>Dark Mode
+        <p>深色模式
           <i class="icon-moon"></i>
           <label class="switch">
             <input type="checkbox" class="dark-mode-toggle">

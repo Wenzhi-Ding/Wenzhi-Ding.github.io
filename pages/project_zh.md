@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: page_zh
+title: 个人项目 | 丁文治
 ---
 
-中文\|[English](./project.html)
+[English](./project.html)\|中文
 
 <li class="posts-labelgroup2"></li>
 

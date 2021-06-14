@@ -1,9 +1,12 @@
-title: Wenzhi Ding | Personal Website
+title: Wenzhi Ding (Dave) | Personal Website
+title_zh: 丁文治 | 个人网站
 email: wenzhi.ding@connect.hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  Wenzhi Ding (丁文治) is a Ph.D. student at the University of Hong Kong 
+  Wenzhi Ding (Dave) is a Ph.D. student at the University of Hong Kong 
   in the finance area. His research interests lie at how law and technology 
   change finance, and further, change business.
+description_zh: >-
+  丁文治是香港大学金融学系的在读博士生。他主要的研究方向是科技和法律对金融的影响，以及更进一步对商业社会的影响。
 url: "https://wding.page" # the base hostname & protocol for your site, e.g. http://example.com
 position: "Ph.D. Student @ HKU"
 
@@ -13,39 +16,42 @@ sass:
   sass_dir: _sass
 
 plainwhite:
-  name: 丁文治 Wenzhi Ding 
+  name: Wenzhi Ding (Dave)
+  name_zh: 丁文治
   tagline: Finance, Tech, Law
+  tagline_zh: 金融 | 科技 | 法律
   date_format: "%b %-d, %Y"
+  date_format_zh: "%Y年%-m月%-d日"
   dark_mode: true
   sitemap: true
   search: true
 
   portfolio_image: "assets/portfolio.png"
   html_lang: "en"
+  html_lang_cn: "zh-cn"
 
   condensed_mobile:
-    #- home
     - page
     - post
-    
-  # disqus_shortname: wenzhi_ding
 
   analytics_id: "UA-150104052-1"
 
   navigation:
     - title: Research
+      title_zh: 学术研究
       url: "/index.html"
-    # - title: Research
-    #   url: "/pages/research"
+      url_zh: "/index_zh.html"
     - title: Project
+      title_zh: 个人项目
       url: "/pages/project.html"
+      url_zh: "/pages/project_zh.html"
     - title: Teaching
+      title_zh: 课程资料
       url: "/pages/teaching.html"
+      url_zh: "/pages/teaching_zh.html"
 
   social_links:
-    # twitter:
     github: Wenzhi-Ding
-    # linkedIn:
     rss: rss
     ssrn: 3268426
 

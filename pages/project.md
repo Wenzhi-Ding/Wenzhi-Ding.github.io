@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Projects | W. Ding
 ---
-<a class="posts-title" href='./project_zh.html'>中文</a>\|English
+English\|<a class="posts-title" href='./project_zh.html'>中文</a>
 
 <li class="posts-labelgroup2"></li>
 
