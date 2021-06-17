@@ -21,8 +21,8 @@ layout: home
     	</ul>
     <h3 class="post-title" style="font-size: 15px">Education</h3>
     	<ul class="my-list">
-    		<li><img src="./assets/img/hku.png" width="14"> 2018-Now: Ph.D. (Expected) and MFin, University of Hong Kong</li>
-    		<li><img src="./assets/img/sysu.png" width="14"> 2014-2018: B.B.A, Sun Yat-Sen University</li>
+    		<li class="post"><img src="./assets/img/hku.png" width="14"> 2018-Now: Ph.D. (Expected) and M.Fin., <a href="https://www.fbe.hku.hk/people/wenzhi-ding/">University of Hong Kong</a></li>
+    		<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018: B.B.A, <a href="http://bus.sysu.edu.cn/en">Sun Yat-Sen University</a></li>
     	</ul>
 
 

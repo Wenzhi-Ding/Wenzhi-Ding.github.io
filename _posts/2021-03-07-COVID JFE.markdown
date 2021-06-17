@@ -3,7 +3,7 @@ layout: post
 title:  "Corporate Immunity to the COVID-19 Pandemic"
 date:   2021-03-07 15:00:00 +0800
 ---
-with Ross Levine, Chen Lin, Wensi Xie. <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i></a>, <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a>, <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a><br/><br/>We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. Corporate characteristics include financial condition, supplier-customer network, CSR activities, corporate governance, and ownership structure.
+with Ross Levine, Chen Lin, Wensi Xie. <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i></a>, <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a>, <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a><br/><br/>We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. Corporate characteristics include financial condition, supplier-customer network, CSR activities, corporate governance, and ownership structure.<br/><img src="/assets/img_post/COVID1_Figure4.svg" style="width: 60vw" class="center"/>
 
 # 1. Abstract
 
@@ -13,7 +13,7 @@ We evaluate the connection between corporate characteristics and the reaction of
 
 ## 2.1. Heterogeneity across markets
 
-![Figure 4](/assets/img_post/Figure3.svg)
+![Figure 4](/assets/img_post/COVID1_Figure3.svg)
 
 **Fig. 3.  Stock Market Returns since the Spread of COVID-19**
 
@@ -21,7 +21,7 @@ This figure plots the cumulative stock market returns since January 17, 2020 for
 
 ## 2.2. Relation between Pandemic (Early Stage) and Stock Returns
 
-![Figure 4](/assets/img_post/Figure4.svg)
+![Figure 4](/assets/img_post/COVID1_Figure4.svg)
 
 **Fig. 4.  COVID19 Cases and Stock Market Returns**
 This figure presents the relation between stock market returns and the growth rate of COVID-19 cases using the cross-economy panel data during the weeks from Jan 3, 2020 through May 22, 2020. The x-axis denotes the weekly growth of COVID-19 cases, and the y-axis represents weekly stock market returns. We divide the x-axis into 100 bins, where each bin has an equal “width,” so that the first bin includes observations with 0% to 3% weekly growth of COVID-19 cases, bin two has observations with 4% to 7% weekly case growth, and the 100th bin has observations of between 396% to 399% weekly case growth. There is not an equal number of observations in each bin. Each dot represents the average weekly stock market return across observations within each bin. The dashed line is the linear fitted line.

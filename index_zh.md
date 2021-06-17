@@ -22,6 +22,6 @@ layout: home_zh
 		</ul>
 	<h3 class="post-title" style="font-size: 15px">教育背景</h3>
 		<ul class="my-list">
-			<li class="post"><img src="./assets/img/hku.png" width="14"> 2018至今：香港大学，金融学博士（在读）与金融硕士</li>
-			<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018：中山大学，工商管理学士</li>
+			<li class="post"><img src="./assets/img/hku.png" width="14"> 2018至今：<a href="https://www.fbe.hku.hk/sc/people/wenzhi-ding/">香港大学</a>，金融学博士（在读）与金融硕士</li>
+			<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018：<a href="http://bus.sysu.edu.cn/">中山大学</a>，工商管理学士</li>
 		</ul>
