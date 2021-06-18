@@ -24,19 +24,20 @@ layout: default
     </li>
 
     {%- for post in site.posts -%}
+     {%- if post.lang == "en" -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
+        <!-- <a class="post-link" href="{{ post.url | relative_url }}"> -->
           <h2 class="post-title">{{ post.title | escape }}</h2>
-        </a>
+        <!-- </a> -->
         <!-- <div class="post-meta"> -->
-          <!-- {%- if post.categories.size > 0-%}
+          {%- if post.categories.size > 0-%}
           <ul class="post-categories">
             {%- for tag in post.categories -%}
             <li>{{ tag }}</li>
             {%- endfor -%}
           </ul>
-          {%- endif -%} -->
+          {%- endif -%}
         <!-- </div> -->
         <div class="post">
           {%- if site.show_excerpts -%}
@@ -48,6 +49,8 @@ layout: default
           {{ post.date | date: date_format }} update
         </div>
       </li>
+      <br /><li class="posts-labelgroup2"/></li>
+      {%- endif -%}
     {%- endfor -%}
   </ul>
 

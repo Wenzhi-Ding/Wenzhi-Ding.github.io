@@ -8,7 +8,7 @@ layout: home
     </li>
     <div style="text-align: center" class="post">English|<a href='./index_zh.html'>中文</a></div>
     <h3 class="post-title" style="font-size: 15px">About Me</h3>
-    	<div class="post">I am a second-year Ph.D. student at the University of Hong Kong in the finance area. My research interests lie at how law and technology change finance, and further, change business and society. All contacts are welcome!</div>
+    	<div class="post">I am a Ph.D. student at the University of Hong Kong in the finance area. My research interests lie at how law and technology change finance, and further, change business and society. All contacts are welcome!</div>
     	<div align="center">
             <br>
     		<strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding.pdf" style="font-size: 15px" target="_blank">Curriculum Vitae</a></strong>

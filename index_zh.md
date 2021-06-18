@@ -9,7 +9,7 @@ layout: home_zh
     	<p style="text-align:center" class="post"><a href='./index.html'>English</a>|中文</p>
     	<!--div class="music_wrapper"><iframe frameborder="0" border="1" marginwidth="0" marginheight="0" src="https://music.163.com/outchain/player?type=2&amp;id=1645064&amp;auto=0&amp;height=66"></iframe></div-->
 	<h3 class="post-title" style="font-size: 15px">个人简介</h3>
-		<div class="post">我是香港大学金融学方向的二年级博士生，研究兴趣是科技和法律对金融的影响，以及进一步对社会的影响。欢迎交流！</div>
+		<div class="post">我是香港大学金融学方向的博士生，研究兴趣是科技和法律对金融的影响，以及进一步对商业和社会的影响。欢迎交流！</div>
 		<div align="center">
             <br>
 			<strong><a class="icon-pdf" href="./assets/简历_丁文治.pdf" style="font-size: 15px" target="_blank">个人简历</a></strong>
@@ -25,3 +25,4 @@ layout: home_zh
 			<li class="post"><img src="./assets/img/hku.png" width="14"> 2018至今：<a href="https://www.fbe.hku.hk/sc/people/wenzhi-ding/">香港大学</a>，金融学博士（在读）与金融硕士</li>
 			<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018：<a href="http://bus.sysu.edu.cn/">中山大学</a>，工商管理学士</li>
 		</ul>
+
