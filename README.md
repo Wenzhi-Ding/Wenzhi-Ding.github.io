@@ -1,10 +1,16 @@
 # plainwhite
 
-Simplistic jekyll portfolio-style theme for writers.
+Simplistic Jekyll portfolio-style theme for writers.
 
-**Demo**: [thelehhman.com](https://thelehhman.com)
+This is a template forked from [samarsault](https://github.com/samarsault/plainwhite-jekyll), but since I have done significant personalization and changes, if you would like to use this template, please be sure to credit both of us in this README file and LICENSE file.
 
-**Repo**: https://github.com/thelehhman/plainwhite-jekyll
+**Demo**: https://wding.page
+
+**Repo**: https://github.com/Wenzhi-Ding/Wenzhi-Ding.github.io
+
+**Original Demo**: https://samarsault.com
+
+**Original Repo**: https://github.com/samarsault/plainwhite-jekyll
 
 ## License
 
@@ -15,4 +21,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## Manually adopt master's changes
 
-Update to 56fc0ecfdf81fff4d42c954d40397d4035a0f2f8. Not follow their most recent changes (only add email icon). If you want to use more icons, you can export your own fontello files.
+Update to 56fc0ecfdf81fff4d42c954d40397d4035a0f2f8. Not follow their most recent changes (only add email icon). If you want to use more icons, you can export your own Fontello files.

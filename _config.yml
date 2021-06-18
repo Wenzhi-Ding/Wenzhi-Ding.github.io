@@ -52,14 +52,14 @@ plainwhite:
 
   social_links:
     github: Wenzhi-Ding
-    rss: rss
+    # rss: rss
     ssrn: 3268426
 
 # Build settings
 theme: plainwhite
 # remote_theme: samarsault/plainwhite-jekyll
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-seo-tag
 
 # Exclude from processing.
