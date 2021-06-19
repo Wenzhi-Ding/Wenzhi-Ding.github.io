@@ -33,14 +33,19 @@ plainwhite:
   condensed_mobile:
     - page
     - post
+    - page_zh
 
   analytics_id: "UA-150104052-1"
 
   navigation:
-    - title: Research
-      title_zh: 学术研究
+    - title: Main
+      title_zh: 首页
       url: "/index.html"
       url_zh: "/index_zh.html"
+    - title: Research
+      title_zh: 学术研究
+      url: "/pages/research.html"
+      url_zh: "/pages/research_zh.html"
     - title: Project
       title_zh: 个人项目
       url: "/pages/project.html"

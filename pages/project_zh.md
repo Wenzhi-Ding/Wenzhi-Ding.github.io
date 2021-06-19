@@ -2,8 +2,7 @@
 layout: page_zh
 title: 个人项目 | 丁文治
 ---
-
-[English](./project.html)\|中文
+<a class="posts-title" href='./project.html'>English</a> \| 中文
 
 <li class="posts-labelgroup2"></li>
 
