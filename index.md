@@ -24,21 +24,20 @@ layout: home
 
 <h3 class="post-title" style="font-size: 15px">Education</h3>
 <ul class="my-list">
-<li class="post"><img src="./assets/img/hku.png" width="14"> 2018-Now: Ph.D. (Expected) and M.Fin., <a href="https://www.fbe.hku.hk/people/wenzhi-ding/">University of Hong Kong</a></li>
-<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018: B.B.A, <a href="http://bus.sysu.edu.cn/en">Sun Yat-Sen University</a></li>
+<li class="post"><img src="./assets/img/hku.png" width="14"> 2018-Now: Ph.D. (Expected) and M.Fin., University of Hong Kong</li>
+<li class="post"><img src="./assets/img/sysu.png" width="14"> 2014-2018: B.B.A, Sun Yat-Sen University</li>
 </ul>
-
 <h3 class="post-title" style="font-size: 15px">Working Papers</h3>
 <ol reversed>
-<li class="post">Risk Perceptions, Board Networks, and Directors’ Monitoring (with Chen Lin, Thomas Schmid, Michael S. Weisbach)
+<li class="post"><a class="two" href="/pages/research.html#penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</a> (with Chen Lin, Thomas Schmid, Michael S. Weisbach)
 </li>
-<li class="post">Competition Laws, Norms and Corporate Social Responsibility (with Ross Levine, Chen Lin, Wensi Xie) | <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank">SSRN</a>
+    <li class="post"><a class="two" href="/pages/research.html#comp_csr">Competition Laws, Norms and Corporate Social Responsibility</a> (with Ross Levine, Chen Lin, Wensi Xie) | <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank">SSRN</a>
 </li>
 </ol>
 
 <h3 class="post-title" style="font-size: 15px">Publications</h3>
 <ol reversed>
-<li class="post">Corporate immunity to the COVID-19 pandemic (with Ross Levine, Chen Lin, Wensi Xie) | <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i></a> (2021) | <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a>
+    <li class="post"><a class="two" href="/pages/research.html#covid_immunity">Corporate immunity to the COVID-19 pandemic</a> (with Ross Levine, Chen Lin, Wensi Xie) | <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i></a> (2021) | <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a>
 </li>
 </ol>
 

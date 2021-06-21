@@ -12,7 +12,7 @@ title: 学术研究 | 丁文治
 
 <li class="posts-labelgroup2"></li>
 
-### 风险感知、董事会网络和独立董事监督
+<h3 id="penalty_vote">风险感知、董事会网络和独立董事监督</h3>
 
 共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach \| **工作论文** \| <a class='icon-ext-link' href='' target="_blank">SSRN</a>
 
@@ -21,7 +21,7 @@ title: 学术研究 | 丁文治
 <img src="/assets/img_post/BoardVote_Dynamics.svg" style="width: 100vw" class="center"/>
 <li class="posts-labelgroup2"></li>
 
-### 反垄断法、社会规范和企业社会责任
+<h3 id="comp_csr">反垄断法、社会规范和企业社会责任</h3>
 
 共同作者：Ross Levine、Chen Lin、Wensi Xie \| **工作论文** \| <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank">SSRN</a>
 
@@ -35,7 +35,7 @@ title: 学术研究 | 丁文治
 
 <li class="posts-labelgroup2"></li>
 
-### 企业对新冠疫情的免疫力
+<h3 id="covid_immunity">企业对新冠疫情的免疫力</h3>
 
 共同作者：Ross Levine、Chen Lin、Wensi Xie \| <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i></a> (2021) \| <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a>
 

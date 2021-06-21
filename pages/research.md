@@ -11,7 +11,7 @@ English \| <a class="posts-title" href='./research_zh.html'>中文</a>
 
 <li class="posts-labelgroup2"></li>
 
-### Risk Perceptions, Board Networks, and Directors’ Monitoring
+<h3 id="penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</h3>
 
 with Chen Lin, Thomas Schmid, Michael S. Weisbach \| **Working Paper** \| <a class='icon-ext-link' href='' target="_blank">SSRN</a>
 
@@ -21,7 +21,7 @@ What makes independent directors perform their monitoring duty? One possible rea
 
 <li class="posts-labelgroup2"></li>
 
-### Competition Laws, Norms and Corporate Social Responsibility
+<h3 id="comp_csr">Competition Laws, Norms and Corporate Social Responsibility</h3>
 
 with Ross Levine, Chen Lin, Wensi Xie \| **Working Paper** \| <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank">SSRN</a>
 
@@ -35,7 +35,7 @@ Theory offers differing perspectives and predictions about the impact of product
 
 <li class="posts-labelgroup2"></li>
 
-### Corporate Immunity to the COVID-19 Pandemic
+<h3 id="covid_immunity">Corporate Immunity to the COVID-19 Pandemic</h3>
 
 with Ross Levine, Chen Lin, Wensi Xie \| <a class='icon-ext-link' href='https://doi.org/10.1016/j.jfineco.2021.03.005' target="_blank"><i>Journal of Financial Economics</i></a> (2021) \| <a class='icon-ext-link' href='https://www.nber.org/papers/w27055' target="_blank">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578585' target="_blank">SSRN</a>
 
