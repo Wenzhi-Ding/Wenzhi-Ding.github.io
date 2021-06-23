@@ -1,5 +1,6 @@
 ---
 layout: home_zh
+canonical_url: https://www.wding.page/index_zh.html
 ---
 
 <ul class="posts">

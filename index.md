@@ -1,5 +1,6 @@
 ---
 layout: home
+canonical_url: https://www.wding.page/index.html
 ---
 
 <ul class="posts">
@@ -57,5 +58,4 @@ layout: home
 </li>
 </ol>
 </li>
-
 

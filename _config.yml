@@ -1,10 +1,9 @@
-title: Wenzhi Ding (Dave) \| Personal Website
-title_zh: 丁文治 \| 个人网站
+title: Wenzhi Ding (Dave) | Personal Website
+title_zh: 丁文治 | 个人网站
 email: wenzhi.ding@connect.hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
   Wenzhi Ding (Dave) is a Ph.D. student at the University of Hong Kong 
-  in the finance area. His research interests lie at how law and technology 
-  change finance, and further, change business.
+  in the finance area. His research interests lie at how finance change society.
 description_zh: >-
   丁文治是香港大学金融学系的在读博士生。他主要的研究方向是科技和法律对金融的影响，以及更进一步对商业社会的影响。
 url: "https://www.wding.page" # the base hostname & protocol for your site, e.g. http://example.com

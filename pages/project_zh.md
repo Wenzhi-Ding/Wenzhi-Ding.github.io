@@ -2,6 +2,9 @@
 layout: page_zh
 title: 个人项目 | 丁文治
 ---
+
+<h1 hidden>个人项目 \| W. Ding</h1>
+
 <a class="posts-title" href='./project.html'>English</a> \| 中文
 
 <li class="posts-labelgroup2"></li>

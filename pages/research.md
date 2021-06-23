@@ -3,6 +3,8 @@ layout: page
 title: Research | W. Ding
 ---
 
+<h1 hidden>Research \| W. Ding</h1>
+
 English \| <a class="posts-title" href='./research_zh.html'>中文</a>
 
 <li class="posts-labelgroup2"></li>
@@ -17,7 +19,7 @@ with Chen Lin, Thomas Schmid, Michael S. Weisbach \| **Working Paper** \| <a cla
 
 What makes independent directors perform their monitoring duty? One possible reason is that they are worried about being sanctioned by regulators if they do not monitor sufficiently well. Using unique features of the Chinese financial market, we estimate the extent to which independent directors’ perceptions of the likelihood of receiving a regulatory penalty affect their monitoring. Our results suggest that they are more likely to vote against management after observing how another director in their board network received a regulatory penalty related to negligence. This effect is long-lasting and stronger if the observing and penalized directors share the same professional background or gender and if the observing director is at a firm that is more likely to be penalized. These results provide direct evidence suggesting that the possibility of receiving penalties is an important factor motivating directors.
 
-<img src="/assets/img_post/BoardVote_Dynamics.svg" style="width: 100vw" class="center"/>
+<img src="/assets/img_post/BoardVote_Dynamics.svg" alt="Board Votes Dynamic" style="width: 100vw" class="center"/>
 
 <li class="posts-labelgroup2"></li>
 
@@ -41,9 +43,9 @@ with Ross Levine, Chen Lin, Wensi Xie \| <a class='icon-ext-link' href='https://
 
 We evaluate the connection between corporate characteristics and the reaction of stock returns to COVID-19 cases using data on over 6,700 firms across 61 economies. The pandemic-induced drop in stock returns was milder among firms with (a) stronger pre-2020 finances (more cash and undrawn credit, less total and short-term debt, and larger profits), (b) less exposure to COVID-19 through global supply chains and customer locations, (c) more CSR activities, and (d) less entrenched executives. Furthermore, the stock returns of firms controlled by families (especially through direct holdings and with non-family managers), large corporations, and governments performed better, and those with greater ownership by hedge funds and other asset management companies performed worse. Stock markets positively price small amounts of managerial ownership but negatively price high-levels of managerial ownership during the pandemic.
 
-<img src="/assets/img_post/COVID1_Figure3.svg" style="width: 100vw" class="center"/>
+<img src="/assets/img_post/COVID1_Figure3.svg" alt="COVID Market" style="width: 100vw" class="center"/>
 
-<img src="/assets/img_post/COVID1_Figure4.svg" style="width: 100vw" class="center"/>
+<img src="/assets/img_post/COVID1_Figure4.svg" alt="COVID Relation" style="width: 100vw" class="center"/>
 
 <li class="posts-labelgroup2"></li>
 
