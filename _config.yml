@@ -7,8 +7,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   change finance, and further, change business.
 description_zh: >-
   丁文治是香港大学金融学系的在读博士生。他主要的研究方向是科技和法律对金融的影响，以及更进一步对商业社会的影响。
-url: "https://wding.page" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.wding.page" # the base hostname & protocol for your site, e.g. http://example.com
 position: "Ph.D. Student @ HKU"
+logo: "favicon.png"
 
 show_excerpts: true
 
@@ -24,7 +25,7 @@ plainwhite:
   date_format_zh: "%Y年%-m月%-d日"
   dark_mode: true
   sitemap: true
-  search: true
+  search: false
 
   portfolio_image: "assets/portfolio.png"
   html_lang: "en"
@@ -64,8 +65,10 @@ plainwhite:
 theme: plainwhite
 # remote_theme: samarsault/plainwhite-jekyll
 plugins:
-#  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -75,7 +78,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - WASTE/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

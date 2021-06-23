@@ -10,10 +10,18 @@ layout: null
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
             <loc>{{ site.url }}</loc>
-            <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+            <lastmod/>
             <priority>1.00</priority>
         </url>
         {%- for post in site.posts -%}
+            <url>
+                <loc>{{ site.url }}{{ post.url }}</loc>
+                <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url>
+        {%- endfor -%}
+        {%- for post in site.pages -%}
             <url>
                 <loc>{{ site.url }}{{ post.url }}</loc>
                 <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>

@@ -31,7 +31,7 @@ layout: home_zh
 </ul>
 <h3 class="post-title" style="font-size: 15px">工作论文</h3>
 <ol reversed>
-<li class="post"><a class="two" href="/pages/research_zh.html#penalty_vote">风险感知、董事会网络和独立董事监督</a>（共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach）
+<li class="post"><a class="two" href="/pages/research_zh.html#penalty_vote">风险感知、董事会网络和独立董事监督</a>（共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach） | <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=' target="_blank">SSRN</a>
 </li>
 <li class="post"><a class="two" href="/pages/research_zh.html#comp_csr">反垄断法、社会规范和企业社会责任</a>（共同作者：Ross Levine、Chen Lin、Wensi Xie） | <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank">SSRN</a>
 </li>
