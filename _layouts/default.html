@@ -38,16 +38,14 @@
       {%- if site.plainwhite.social_links != '' -%}
       <ul class="social about-footer {{condensed_class}}">
         {%- if site.plainwhite.social_links.ssrn -%}
-        <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank">
           <li>
-            <i class="icon-ssrn-squared"></i>
+            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank"><i class="icon-ssrn-squared"></i></a>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
-        <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank">
           <li>
-            <i class="icon-github-squared"></i>
+            <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank"><i class="icon-github-squared"></i></a>
           </li>
         </a>
         {%- endif -%}
@@ -102,7 +100,7 @@
     </footer>
   </main>
   {% if site.plainwhite.dark_mode %}
-  <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
   {% endif %}
   {%- if site.plainwhite.analytics_id -%}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
@@ -114,10 +112,10 @@
   </script>
   {%- endif -%}
 
-  {% if site.plainwhite.search %}
+  <!-- {% if site.plainwhite.search %}
   <script src="{{ "/assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
-  {% endif %}
+  {% endif %} -->
 </body>
 
 </html>
