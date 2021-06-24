@@ -16,7 +16,7 @@ title: 学术研究 | 丁文治
 
 <h3 id="penalty_vote">风险感知、董事会网络和独立董事监督</h3>
 
-共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach \| **工作论文** \| <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=' target="_blank">SSRN</a>
+共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach \| **工作论文** \| <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank">SSRN</a>
 
 什么样的因素能够促使独立董事真正发挥监督职责？一个假说是他们会因为担心受到监管处罚从而勤勉尽责。利用中国金融市场特有的信息披露要求，我们测算了独立董事对处罚风险的感知会在何种程度上影响其对公司的监督。结果表明，当一个独立董事观察到与他共事的董监高因未尽监督职责而被证监会处罚，在他随后的独董工作中，对公司议题提出异议的几率会大幅提升一倍多。这一效应会持续超过5年时间。当该独董与被罚董监高有共同的专业背景和具有相同性别时，这一效应尤为突出。在高受罚风险公司中任职的独董对处罚事件的反应也更大。这些结果共同表明，独立董事对处罚风险的感知是影响其监督行为的重要因素之一。
 

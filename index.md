@@ -44,7 +44,7 @@ canonical_url: https://www.wding.page/index.html
 <li>
 <h3 class="post-title" style="font-size: 15px">Working Papers</h3>
 <ol reversed>
-<li class="post"><a class="two" href="/pages/research.html#penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</a> (with Chen Lin, Thomas Schmid, Michael S. Weisbach) | <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=' target="_blank">SSRN</a>
+<li class="post"><a class="two" href="/pages/research.html#penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</a> (with Chen Lin, Thomas Schmid, Michael S. Weisbach) | <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank">SSRN</a>
 </li>
 <li class="post"><a class="two" href="/pages/research.html#comp_csr">Competition Laws, Norms, and Corporate Social Responsibility</a> (with Ross Levine, Chen Lin, Wensi Xie) | <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank">SSRN</a>
 </li>
