@@ -59,6 +59,17 @@
 	a {
 		color: $dark_link_color;
 	}
+	a.two {
+		color: $dark_link_color;
+		text-decoration: none;
+		transition: border-bottom 0.4s;
+		border-bottom: 0.5px solid $dark_link_color;
+		&:hover {
+		  color: $linkColor;
+		  border-bottom: 0.5px solid $linkColor;
+		}
+	  }
+
 	#title a {
 		color: #fff;
 		&:hover {
