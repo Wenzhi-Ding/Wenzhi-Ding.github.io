@@ -9,7 +9,7 @@ canonical_url: https://www.wding.page/index_zh.html
 </li>
 
 <li>
-<p style="text-align:center" class="post"><a href='./index.html'>English</a>|中文</p>
+<p style="text-align:center" class="post"><a href='./index.html'>English</a> | 中文</p>
 </li>
 
 <li>
