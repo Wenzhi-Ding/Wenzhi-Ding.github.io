@@ -7,6 +7,6 @@ title: 课程资料 | 丁文治
 
 [English](./teaching.html)\|中文
 
-<li class="posts-labelgroup2"></li>
+<p class="posts-labelgroup"></p>
 
 暂无内容。

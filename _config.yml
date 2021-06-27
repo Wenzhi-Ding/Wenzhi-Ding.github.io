@@ -28,7 +28,7 @@ plainwhite:
 
   portfolio_image: "assets/portfolio.png"
   html_lang: "en"
-  html_lang_cn: "zh-cn"
+  html_lang_zh: "zh-Hans"
 
   condensed_mobile:
     - page
@@ -57,16 +57,13 @@ plainwhite:
 
   social_links:
     github: Wenzhi-Ding
-    # rss: rss
     ssrn: 3268426
 
 # Build settings
 theme: plainwhite
-# remote_theme: samarsault/plainwhite-jekyll
 plugins:
-  # - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
+  # - jekyll-sitemap
   # - jekyll-last-modified-at
 
 # Exclude from processing.
@@ -77,8 +74,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - WASTE/
+# exclude:
+  # - WASTE/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

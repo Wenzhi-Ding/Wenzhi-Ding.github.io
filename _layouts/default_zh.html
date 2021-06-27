@@ -38,30 +38,18 @@
       {%- if site.plainwhite.social_links != '' -%}
       <ul class="social about-footer {{condensed_class}}">
         {%- if site.plainwhite.social_links.ssrn -%}
-        <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank">
           <li>
-            <i class="icon-ssrn-squared"></i>
+            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank" aria-label="我的SSRN" rel="noreferrer">
+              <i class="icon-ssrn-squared"></i>
+            </a>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
-        <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank">
           <li>
-            <i class="icon-github-squared"></i>
-          </li>
-        </a>
-        {%- endif -%}
-        {%- if site.plainwhite.social_links.linkedIn -%}
-        <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}" target="_blank">
-          <li>
-            <i class="icon-linkedin-squared"></i>
-          </li>
-        </a>
-        {%- endif -%}
-        {%- if site.plainwhite.social_links.twitter -%}
-        <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}" target="_blank">
-          <li>
-            <i class="icon-twitter-squared"></i>
+            <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank" aria-label="我的GitHub" rel="noreferrer">
+              <i class="icon-github-squared"></i>
+            </a>
           </li>
         </a>
         {%- endif -%}
@@ -85,7 +73,7 @@
         <p>深色模式
           <i class="icon-moon"></i>
           <label class="switch">
-            <input type="checkbox" class="dark-mode-toggle">
+            <input type="checkbox" aria-label="深色模式" class="dark-mode-toggle">
             <span class="slider round" onclick="toggleDarkMode()"></span>
           </label>
         </p>

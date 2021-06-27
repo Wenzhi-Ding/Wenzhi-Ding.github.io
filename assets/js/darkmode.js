@@ -24,9 +24,10 @@ function setCookie(name, value, days) {
 function deleteCookie(name) { setCookie(name, '', -1); }
 
 
-const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+// const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 var theme = getCookie('theme');
-if ( (theme === null && userPrefersDark) || theme === 'dark') {
+// if ( (theme === null && userPrefersDark) || theme === 'dark') {
+if ( (theme === null) || theme === 'dark') {
     var checkDarkDone = false;
     function checkDark() {
         if (!checkDarkDone) {

@@ -39,27 +39,17 @@
       <ul class="social about-footer {{condensed_class}}">
         {%- if site.plainwhite.social_links.ssrn -%}
           <li>
-            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank"><i class="icon-ssrn-squared"></i></a>
+            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.plainwhite.social_links.ssrn }}" target="_blank" aria-label="My SSRN" rel="noreferrer">
+              <i class="icon-ssrn-squared"></i>
+            </a>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
           <li>
-            <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank"><i class="icon-github-squared"></i></a>
-          </li>
-        </a>
-        {%- endif -%}
-        {%- if site.plainwhite.social_links.linkedIn -%}
-        <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}" target="_blank">
-          <li>
-            <i class="icon-linkedin-squared"></i>
-          </li>
-        </a>
-        {%- endif -%}
-        {%- if site.plainwhite.social_links.twitter -%}
-        <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}" target="_blank">
-          <li>
-            <i class="icon-twitter-squared"></i>
+            <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank" aria-label="My GitHub" rel="noreferrer">
+              <i class="icon-github-squared"></i>
+            </a>
           </li>
         </a>
         {%- endif -%}
@@ -83,7 +73,7 @@
         <p>Dark Mode
           <i class="icon-moon"></i>
           <label class="switch">
-            <input type="checkbox" class="dark-mode-toggle">
+            <input type="checkbox" aria-label="DarkMode" class="dark-mode-toggle">
             <span class="slider round" onclick="toggleDarkMode()"></span>
           </label>
         </p>

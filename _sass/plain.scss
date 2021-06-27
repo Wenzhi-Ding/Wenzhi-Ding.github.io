@@ -226,7 +226,7 @@ main {
 
 .post-title {
   line-height: 1.15em;
-  font-size: 20px;
+  font-size: 15px;
   margin-bottom: 5px;
   h1,
   h2 {
@@ -287,7 +287,11 @@ main {
   h6 {
     font-family: Raleway, sans-serif;
   }
+  .center {
+    text-align: center
+  }
 }
+
 .posts-labelgroup {
   margin: 0 0 0.67em 0;
   display: flex;
@@ -357,26 +361,6 @@ footer {
   }
 }
 
-// For main page title. To coup with the search box bug.
-.posts-labelgroup2 {
-  margin: 0 0 0.67em 0;
-  display: flex;
-  align-items: baseline;
-  border-bottom: 1px solid #eee;
-}
-
-#posts-label2 {
-  font-size: 15px;
-  color: #555;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  padding: 10px 0;
-  font-weight: normal;
-  margin: 0;
-  overflow: hidden;
-  transition: width 0.1s;
-}
-
 table {
   th, td {
     padding: 2px 16px;
@@ -386,20 +370,6 @@ table {
     background-color: #eee;
     font-family: Raleway;
   }
-}
-
-.music_wrapper {
-  position: relative;
-  padding-bottom: 43px;
-  padding-top: 43px;
-  height: 0;
-}
-.music_wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
 
 .my-list {
