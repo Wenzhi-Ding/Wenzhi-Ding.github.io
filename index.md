@@ -1,5 +1,6 @@
 ---
 layout: home
+canonical_url: https://wding.page/index.html
 ---
 
 <ul class="posts">
@@ -12,6 +13,7 @@ layout: home
 </li>
 
 <li>
+
 <h2 class="post-title">About Me</h2>
 <div class="post">I am a Ph.D. student at the University of Hong Kong in the finance area. My research interests lie at how law and technology change finance, and further, change business and society. All contacts are welcome!</div>
 </li>
