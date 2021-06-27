@@ -9,7 +9,7 @@ layout: null
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>https://www.wding.page/index.html</loc>
+            <loc>https://www.wding.page/</loc>
             <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
             <priority>1.00</priority>
         </url>

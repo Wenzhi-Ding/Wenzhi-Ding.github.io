@@ -26,9 +26,8 @@ layout: home
 <li>
 <h2 class="post-title">Fields of Interest</h2>
 <ul class="my-list">
-<li>Corporate Finance</li>
-<li>Technology and Finance</li>
-<li>Law and Finance</li>
+<li>Corporate Finance & Corporate Governance</li>
+<li>Technology, Law, and Finance</li>
 </ul>
 </li>
 

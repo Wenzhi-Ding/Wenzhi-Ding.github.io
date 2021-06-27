@@ -26,9 +26,8 @@ layout: home_zh
 <li>
 <h2 class="post-title">研究兴趣</h2>
 <ul class="my-list">
-<li class="post">公司金融</li>
-<li class="post">科技与金融</li>
-<li class="post">法律与金融</li>
+<li class="post">公司金融与公司治理</li>
+<li class="post">科技、法律与金融</li>
 </ul>
 </li>
 
