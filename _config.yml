@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 description_zh: >-
   丁文治是香港大学金融学系的在读博士生。他主要的研究方向是科技和法律对金融的影响，以及更进一步对商业社会的影响。
 url: "https://wding.page" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "favicon.png"
+# logo: "assets/img/favicon.svg"
 
 show_excerpts: true
 
@@ -23,7 +23,7 @@ plainwhite:
   date_format_zh: "%Y年%-m月%-d日"
   sitemap: true
 
-  portfolio_image: "assets/portfolio.jpg"
+  portfolio_image: "assets/img/profile.webp"
   html_lang: "en"
   html_lang_zh: "zh-Hans"
 
@@ -74,13 +74,9 @@ exclude:
   - serve.sh
   - package-lock.json
   - plainwhite.gemspec
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - CNAME
+  - README.md
+  - assets/font/fontello.eot
+  - assets/font/fontello.ttf
+  - assets/font/fontello.woff
+  - assets/font/fontello.woff2

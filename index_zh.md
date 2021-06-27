@@ -23,6 +23,8 @@ layout: home_zh
 </div>
 </li>
 
+<br>
+
 <li>
 <h2 class="post-title">研究兴趣</h2>
 <ul class="my-list">
@@ -31,13 +33,17 @@ layout: home_zh
 </ul>
 </li>
 
+<br>
+
 <li>
 <h2 class="post-title">教育背景</h2>
 <ul class="my-list">
-<li class="post"><img src="./assets/img/hku.png" alt="HKU Logo" width="14"> 2018至今：香港大学，金融学博士（在读）与金融硕士</li>
-<li class="post"><img src="./assets/img/sysu.png" alt="SYSU Logo" width="14"> 2014-2018：中山大学，工商管理学士</li>
+<li class="post"><img src="./assets/img/hku.svg" alt="HKU Logo" width="14"> 2018至今：香港大学，金融学博士（在读）与金融硕士</li>
+<li class="post"><img src="./assets/img/sysu.svg" alt="SYSU Logo" width="14"> 2014-2018：中山大学，工商管理学士</li>
 </ul>
 </li>
+
+<br>
 
 <li>
 <h2 class="post-title">工作论文</h2>
@@ -48,6 +54,8 @@ layout: home_zh
 </li>
 </ol>
 </li>
+
+<br>
 
 <li>
 <h2 class="post-title">发表论文</h2>

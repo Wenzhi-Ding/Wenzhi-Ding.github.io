@@ -25,6 +25,8 @@ canonical_url: https://wding.page/index.html
 </div>
 </li>
 
+<br>
+
 <li>
 <h2 class="post-title">Fields of Interest</h2>
 <ul class="my-list">
@@ -33,13 +35,17 @@ canonical_url: https://wding.page/index.html
 </ul>
 </li>
 
+<br>
+
 <li>
 <h2 class="post-title">Education</h2>
 <ul class="my-list">
-<li class="post"><img src="./assets/img/hku.png" alt="HKU Logo" width="14"> 2018-Now: Ph.D. (Expected) and M.Fin., University of Hong Kong</li>
-<li class="post"><img src="./assets/img/sysu.png" alt="SYSU Logo" width="14"> 2014-2018: B.B.A, Sun Yat-Sen University</li>
+<li class="post"><img src="./assets/img/hku.svg" alt="HKU Logo" width="14"> 2018-Now: Ph.D. (Expected) and M.Fin., University of Hong Kong</li>
+<li class="post"><img src="./assets/img/sysu.svg" alt="SYSU Logo" width="14"> 2014-2018: B.B.A, Sun Yat-Sen University</li>
 </ul>
 </li>
+
+<br>
 
 <li>
 <h2 class="post-title">Working Papers</h2>
@@ -50,6 +56,8 @@ canonical_url: https://wding.page/index.html
 </li>
 </ol>
 </li>
+
+<br>
 
 <li>
 <h2 class="post-title">Publications</h2>
