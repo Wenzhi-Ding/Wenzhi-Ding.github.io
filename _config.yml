@@ -76,7 +76,3 @@ exclude:
   - plainwhite.gemspec
   - CNAME
   - README.md
-  - assets/font/fontello.eot
-  - assets/font/fontello.ttf
-  - assets/font/fontello.woff
-  - assets/font/fontello.woff2
