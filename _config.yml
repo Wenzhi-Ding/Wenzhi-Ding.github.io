@@ -60,7 +60,7 @@ plainwhite:
 theme: plainwhite
 plugins:
   - jekyll-seo-tag
-  # - jekyll-sitemap
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
