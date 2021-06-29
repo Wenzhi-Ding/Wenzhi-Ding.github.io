@@ -16,6 +16,7 @@ canonical_url: https://wding.page/index.html
 <div align="center">
 <br>
 <strong><a class="icon-pdf" href="./assets/CV_Wenzhi_Ding.pdf" target="_blank">Curriculum Vitae</a></strong>
+<br>
 </div>
 
 <h2 class="post-title">Fields of Interest</h2>
@@ -32,7 +33,7 @@ canonical_url: https://wding.page/index.html
 
 <h2 class="post-title">Working Papers</h2>
 <ol reversed>
-<li class="post"><a class="two" href="/pages/research.html#penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</a> (with Chen Lin, Thomas Schmid, Michael S. Weisbach) | <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank"  rel="noreferrer">SSRN</a>
+<li class="post"><a class="two" href="/pages/research.html#penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</a> (with Chen Lin, Thomas Schmid, Michael S. Weisbach) | <a class='icon-ext-link' href='https://www.nber.org/papers/w28974' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank"  rel="noreferrer">SSRN</a>
 </li>
 <li class="post"><a class="two" href="/pages/research.html#comp_csr">Competition Laws, Norms, and Corporate Social Responsibility</a> (with Ross Levine, Chen Lin, Wensi Xie) | <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank"  rel="noreferrer">SSRN</a>
 </li>

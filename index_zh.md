@@ -15,6 +15,7 @@ layout: home_zh
 <div align="center">
 <br>
 <strong><a class="icon-pdf" href="./assets/简历_丁文治.pdf" target="_blank">个人简历</a></strong>
+<br>
 </div>
 
 <h2 class="post-title">研究兴趣</h2>
@@ -31,7 +32,7 @@ layout: home_zh
 
 <h2 class="post-title">工作论文</h2>
 <ol reversed>
-<li class="post"><a class="two" href="/pages/research_zh.html#penalty_vote">风险感知、董事会网络和独立董事监督</a>（共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach） | <a class='icon-ext-link' href='https://www.nber.org/papers/w28976' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank"  rel="noreferrer">SSRN</a>
+<li class="post"><a class="two" href="/pages/research_zh.html#penalty_vote">风险感知、董事会网络和独立董事监督</a>（共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach） | <a class='icon-ext-link' href='https://www.nber.org/papers/w28974' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank"  rel="noreferrer">SSRN</a>
 </li>
 <li class="post"><a class="two" href="/pages/research_zh.html#comp_csr">反垄断法、社会规范和企业社会责任</a>（共同作者：Ross Levine、Chen Lin、Wensi Xie） | <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank"  rel="noreferrer">SSRN</a>
 </li>
