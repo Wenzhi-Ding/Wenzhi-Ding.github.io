@@ -31,6 +31,9 @@ canonical_url: https://wding.page/index.html
 <li class="post"><img src="./assets/img/sysu.svg" alt="SYSU Logo" width="14"> 2014-2018: B.B.A, Sun Yat-Sen University</li>
 </ul>
 
+<br>
+<div class="post">(Click title to see abstract and highlights)</div>
+
 <h2 class="post-title">Working Papers</h2>
 <ol reversed>
 <li class="post"><a class="two" href="/pages/research.html#penalty_vote">Risk Perceptions, Board Networks, and Directors’ Monitoring</a> (with Chen Lin, Thomas Schmid, Michael S. Weisbach) | <a class='icon-ext-link' href='https://www.nber.org/papers/w28974' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank"  rel="noreferrer">SSRN</a>

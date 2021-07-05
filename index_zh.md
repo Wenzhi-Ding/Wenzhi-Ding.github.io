@@ -30,6 +30,9 @@ layout: home_zh
 <li class="post"><img src="./assets/img/sysu.svg" alt="SYSU Logo" width="14"> 2014-2018：中山大学，工商管理学士</li>
 </ul>
 
+<br>
+<div class="post">（可点击标题浏览摘要）</div>
+
 <h2 class="post-title">工作论文</h2>
 <ol reversed>
 <li class="post"><a class="two" href="/pages/research_zh.html#penalty_vote">风险感知、董事会网络和独立董事监督</a>（共同作者：Chen Lin、Thomas Schmid、Michael S. Weisbach） | <a class='icon-ext-link' href='https://www.nber.org/papers/w28974' target="_blank"  rel="noreferrer">NBER</a> | <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872749' target="_blank"  rel="noreferrer">SSRN</a>
