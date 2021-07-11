@@ -22,11 +22,11 @@ title: 学术研究 | 丁文治
 
 <p class="posts-labelgroup"></p>
 
-<h3 id="comp_csr">反垄断法、社会规范和企业社会责任</h3>
+<h3 id="comp_csr">反垄断法、所有权和企业社会责任</h3>
 
 共同作者：Ross Levine、Chen Lin、Wensi Xie \| **工作论文** \| <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank" rel="noreferrer">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank" rel="noreferrer">SSRN</a>
 
-市场竞争对企业社会责任（CSR）产生何种影响？目前理论研究仍未达成一致观点。我们通过对2002年至2015年间企业层面的CSR数据和世界范围内48个国家的反垄断法指数研究发现：1、加剧的市场竞争使得企业增加了对社会责任的投入；2、这一效应在重视环境保护和公平待遇的社会更加明显；3、这一效应对财务困难的公司较弱。我们的研究结果与利益相关者价值最大化的观点相吻合，即加剧的市场竞争使企业增加投入以强化与利益相关者的关系（如顾客、雇员、供应商等）。
+市场竞争对企业社会责任（CSR）产生何种影响？目前理论研究仍未达成一致观点。我们通过对2002年至2010年间企业层面的CSR数据和世界范围内43个国家的反垄断法指数研究发现加剧的市场竞争使得企业增加了对社会责任的投入以强化与利益相关者的关系（如顾客、雇员、供应商等）。机构投资者、控股股东、产业结构、行业竞争、财务约束都会影响这一效应。此外，各个社会对企业社会责任的态度也会影响这一效应。这些结果符合利益相关者理论和产品差异化理论的预测。
 
 <p class="posts-labelgroup"></p>
 

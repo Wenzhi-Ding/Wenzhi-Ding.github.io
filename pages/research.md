@@ -21,11 +21,11 @@ What makes independent directors perform their monitoring duty? One possible rea
 
 <p class="posts-labelgroup"></p>
 
-<h3 id="comp_csr">Competition Laws, Norms and Corporate Social Responsibility</h3>
+<h3 id="comp_csr">Competition Laws, Ownership and Corporate Social Responsibility</h3>
 
 with Ross Levine, Chen Lin, Wensi Xie \| **Working Paper** \| <a class='icon-ext-link' href='https://www.nber.org/papers/w27493' target="_blank" rel="noreferrer">NBER</a> \| <a class='icon-ext-link' href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605990' target="_blank" rel="noreferrer">SSRN</a>
 
-Theory offers differing perspectives and predictions about the impact of product market competition on corporate social responsibility (CSR). Using firm-level data on CSR from 2002 through 2015 and panel data on competition laws in 48 countries, we discover that (1) intensifying competition induces firms to increase CSR activities, (2) the competition-CSR effect depends positively on society’s prioritization of the environment and treating others fairly, and (3) less financially-constrained firms boost CSR activities more in response to competition. The results are consistent with the stakeholder value maximization view that intensifying competition induces firms to invest in strengthening bonds with non-shareholder stakeholders (e.g., customers, workers, and suppliers).
+Theory offers differing predictions about the impact of competition on corporate social responsibility (CSR). Using a large sample of firm-level data on CSR from 2002 through 2010 and panel data on competition laws across 43 countries, we discover that intensifying competition laws induces firms to increase CSR as a strategy for strengthening relationships with workers, suppliers, and customers and enhancing product differentiation. The CSR-enhancing effects of competition vary across (a) firms with different institutional investors, controlling owners, industry structures, industry product similarity, and financing constraints and (b) countries with different social attitudes toward CSR in ways that are consistent with the stakeholder and product differentiation theories.
 
 <p class="posts-labelgroup"></p>
 
